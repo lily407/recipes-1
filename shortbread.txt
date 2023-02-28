@@ -6,3 +6,6 @@ Ingredients:
  - 1 tsp. baking powder
  - 1 tsp. vanilla
 
+Instructions:
+ - Mix dry ingredients
+ 
